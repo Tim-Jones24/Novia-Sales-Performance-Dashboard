@@ -1,7 +1,9 @@
 # Novia Sales Performance Dashboard
 A comprehensive sales Analysis using  Power Pivot in Excel: A Data-Driven Approach to Revenue & Profit Optimization.
 
-### Sales Performance Analysis and KPI Dashboard Using Power Pivot in Excel
+
+
+# Sales Performance Analysis and KPI Dashboard Using Power Pivot in Excel
 
 #### Project Overview
 
@@ -72,3 +74,7 @@ To enrich the dataset, the following calculated columns were created:
 #### Conclusion
 
 This project demonstrates how Power Pivot in Excel can be used for advanced business intelligence, enabling companies to analyze sales performance efficiently. By leveraging DAX calculations, Pivot Tables, and KPI tracking, businesses can gain actionable insights and drive revenue growth.
+
+#### Datasaet Credit
+Novia Sales Dataset: Provided by Michael Ogbeide
+LinkedIn: https://www.linkedin.com/in/michael-ogbeide/
