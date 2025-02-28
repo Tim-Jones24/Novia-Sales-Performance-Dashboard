@@ -11,7 +11,7 @@ A comprehensive sales Analysis using  Power Pivot in Excel: A Data-Driven Approa
 #### Project Overview
 
 This project provides a comprehensive sales analysis dashboard using Power Pivot in Excel, designed to help businesses monitor key performance indicators (KPIs)
-and drive strategic decisions. The dataset,**Novia Sales**, includes financial, product, segment, location, and sales channel data, structured into start schema model.
+and drive strategic decisions. The dataset **Novia Sales** includes financial, product, segment, location, and sales channel data, structured into star schema model.
 
 #### Key Objectives:
 
@@ -21,7 +21,7 @@ and drive strategic decisions. The dataset,**Novia Sales**, includes financial, 
 *  Use Excel cube functions and SL Functions to enhance dashboard interactivity.
 *  Provide business recommendations to optimize sales, revenue amd profitability.
 
-#### Data Model ( Star Schema Design)
+#### Data Model (Star Schema Design)
 The data model follows a start schema with a fact table (Financials) and multiple dimension tables:
 
 1. **Financials**: Sales transactions with cost, revenue, and quality details.
@@ -36,7 +36,7 @@ To enrich the dataset, the following calculated columns were created:
 
 * **Profit Margin** = (Profit / Revenue) * 100
 * **Revenue** = Quantity Sold * Price
-* **Expenses** = Quantity Sold* Cost of Sales
+* **Expenses** = Quantity Sold * Cost of Sales
 * **Profit** = Revenue - Expenses
 * **Profit Category**: High or Low, based on comparison with the average profit.
 
@@ -72,12 +72,12 @@ To enrich the dataset, the following calculated columns were created:
 * Expand operations in profitable states and optimize sales channels.
 * Introduce seasonal promotions and loyality programs to increase customer retention.
 * Monitor KPIs in real time using the dashboard for data-driven decision making.
-* Implement predictive modelling as sales grow to forecast future sales and proactively adjust inevntory marketing and pricing startegies.
+* Implement predictive modelling as sales grow to forecast future sales and proactively adjust inventory marketing and pricing strategies.
 
 #### Conclusion
 
 This project demonstrates how Power Pivot in Excel can be used for advanced business intelligence, enabling companies to analyze sales performance efficiently. By leveraging DAX calculations, Pivot Tables, and KPI tracking, businesses can gain actionable insights and drive revenue growth.
 
-#### Datasaet Credit
+#### Dataset Credit
 Novia Sales Dataset: Provided by Michael Ogbeide
 LinkedIn: https://www.linkedin.com/in/michael-ogbeide/
