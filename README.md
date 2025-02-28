@@ -36,7 +36,7 @@ To enrich the dataset, the following calculated columns were created:
 
 * **Profit Margin** = (Profit / Revenue) * 100
 * **Revenue** = Quantity Sold * Price
-* **Expenses** = Quantity * Cost of Sales
+* **Expenses** = Quantity Sold* Cost of Sales
 * **Profit** = Revenue - Expenses
 * **Profit Category**: High or Low, based on comparison with the average profit.
 
